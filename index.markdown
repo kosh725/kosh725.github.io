@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+Place holder page to hold and store all navigation towards 
+seperate pages that I will use to disect each page of the
+final report and findings
+
+![letsgo](test.jpg)
