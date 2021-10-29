@@ -1,7 +1,7 @@
 ---
 layout: home
 title: WFH
-permalink: /pika
+permalink: /wfh
 ---
 
-lets test this
+Insert rough WFHs graphs
