@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Supervising Professor Details
 
 This research that was undertaken was a topic proposed by [Wei Liu](https://profiles.uts.edu.au/Wei.Liu)
 
