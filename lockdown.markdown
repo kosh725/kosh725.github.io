@@ -4,4 +4,5 @@ title: Lockdown
 permalink: /lockdown
 ---
 
-Insert rough lockdown graphs
+
+![lockdown](visuals/lockdown1.png)

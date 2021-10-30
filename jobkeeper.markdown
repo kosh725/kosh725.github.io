@@ -4,6 +4,4 @@ title: Job Keeper
 permalink: /jobkeeper
 ---
 
-Insert rough Job Keeper graphs
-
-
+![jobkeeper](visuals/jobkeeper1.png)

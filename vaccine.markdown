@@ -4,4 +4,5 @@ title: Vaccine
 permalink: /vaccine
 ---
 
-Insert rough vaccines graphs
+![vaccine](visuals/vaccine1.png)
+

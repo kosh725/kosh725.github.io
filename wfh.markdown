@@ -4,4 +4,4 @@ title: WFH
 permalink: /wfh
 ---
 
-Insert rough WFHs graphs
+![wfh](visuals/wfh1.png)

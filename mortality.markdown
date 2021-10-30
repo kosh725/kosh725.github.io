@@ -4,4 +4,4 @@ title: Mortality
 permalink: /mortality
 ---
 
-Insert rough Mortality graphs
+![mortality](visuals/mortality1.png)
